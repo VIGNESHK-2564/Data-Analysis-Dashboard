@@ -34,4 +34,4 @@ The stock data was sourced from **Yahoo Finance** and prepared using **Excel** b
 
 ##  Screenshots
 
-Example-(![Dashboard Screenshot](https://github.com/VIGNESHK-2564/Data-Analysis-Dashboard/blob/main/stock%20main%20pg.jpg)`)
+Example-![Dashboard Screenshot](https://github.com/VIGNESHK-2564/Data-Analysis-Dashboard/blob/main/stock%20main%20pg.jpg)`
