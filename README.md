@@ -34,4 +34,4 @@ The stock data was sourced from **Yahoo Finance** and prepared using **Excel** b
 
 ##  Screenshots
 
-*(Add screenshots of your dashboard here for better presentation. Use `![Dashboard Screenshot](path-to-image)`)*
+Example-(![Dashboard Screenshot](https://github.com/VIGNESHK-2564/Data-Analysis-Dashboard/blob/main/stock%20main%20pg.jpg)`)
